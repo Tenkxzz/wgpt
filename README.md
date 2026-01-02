@@ -11,3 +11,5 @@ Project ini dibuat untuk tujuan pembelajaran dan eksperimen
 -  Eksperimen prompt ekstrem untuk keperluan pembelajaran
 -  Tampilan chat rapi berbentuk box
 
+## 📸 Screenshots
+![alt text](?raw=true)
