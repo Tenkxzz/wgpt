@@ -25,6 +25,16 @@ Project ini dibuat untuk tujuan pembelajaran dan eksperimen
 - Jenis Project: Chatbot Berbasis Python
 - Tujuan: Eksperimen
 
+## 🔥 Join Community
+
+Gabung ke channel WhatsApp untuk:
+- Update project & fitur baru
+- Share APK, web, dan tools Termux
+
+📱 https://tinyurl.com/2cxmlqtl
+
+> Channel ini bersifat informasi & komunitas, bukan layanan resmi.
+
 ## 🚀 Instalasi
 ```bash
 pkg update
