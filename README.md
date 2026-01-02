@@ -25,3 +25,26 @@ Project ini dibuat untuk tujuan pembelajaran dan eksperimen
 - Jenis Project: Chatbot Berbasis Python
 - Tujuan: Eksperimen
 
+## 🚀 Instalasi
+```bash
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install python-cryptography -y
+
+pkg install clang make openssl libffi
+
+pip install pycryptodome
+
+pkg install git
+
+git clone https://github.com/Tenkxzz/wgpt.git
+
+cd wgpt
+
+pip install requests colorama
+
+python main1.py
