@@ -12,4 +12,4 @@ Project ini dibuat untuk tujuan pembelajaran dan eksperimen
 -  Tampilan chat rapi berbentuk box
 
 ## 📸 Screenshots
-![alt text](?raw=true)
+![alt text](jpg?raw=true)
