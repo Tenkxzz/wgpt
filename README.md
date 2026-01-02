@@ -12,4 +12,5 @@ Project ini dibuat untuk tujuan pembelajaran dan eksperimen
 -  Tampilan chat rapi berbentuk box
 
 ## 📸 Screenshots
-![alt text]([jpg](https://github.com/Tenkxzz/wgpt/blob/main/images/main_menu.jpg)?raw=true)
+![alt text](https://github.com/asta0x/iptrace/blob/main/images/main_menu.jpg?raw=true)
+
